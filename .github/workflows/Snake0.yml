@@ -30,4 +30,11 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-
+    # push the content of <build_dir> to a branch
+      # the content will be available at https://github.com/MarcioMot4/MarcioMot4/files/github-contribution-grid-snake.svg , or as github page
+      - name: push github-contribution-grid-snake.svg to the files branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: files
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
