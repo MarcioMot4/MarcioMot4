@@ -5,6 +5,8 @@ Aqui no Git, você vai encontrar alguns exemplos e trabalhos desenvolvidos duran
 
 O objetivo é criar ainda mais valor, através da utilização de técnicas, ferramentas, procedimentos e processos de Ciência de Dados, tais como Estatística Inferencial e Aplicada, Programação em Phyton, Visualização com Power BI, Tableau, Google Data Studio e Looker Studio. 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcioMot4&hide=contribs&show_icons=true)](https://github.com/MarcioMot4/github-readme-stats)
+
 Acredito que, hoje, com a enorme quantidade de dados a disposição das equipes de marketing, elas precisam ir além de apenas ser criativas ou coordenadores de projetos, será fundamental dominar a linguagem dos dados, para ouvir com mais clareza aquilo que seus clientes não estão dizendo.
 
 Um pouco sobre mim e alumas pegadas que já deixei pelo caminho:  
