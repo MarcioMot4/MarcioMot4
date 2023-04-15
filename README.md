@@ -1,5 +1,5 @@
 <p align="left">Olá, Muito prazer! Meu nome é <strong>Marcio Mota</strong></p> 
-<h1 align="left">Há mais de uma década trabalho entregando resultados e ajudando empresas a aumentar lucro, reduzir custos e sobreviver em um mercado cada vez mais competitivo e orientado a dados.</h1></p>
+<h1 align="left">Criando valor, resultados e ajudando empresas a aumentar lucro, reduzir custos e sobreviver em um mercado cada vez mais competitivo e orientado a dados.</h1></p>
 
 Aqui no Git, você vai encontrar alguns exemplos e trabalhos desenvolvidos durante minha fase de "Expansão" de carreira, através da qual mergulhei de vez no universo da Análise de dados , Web Analytics  e Ciência de Dados de forma a complementar toda a bagagem e conhecimento de negócios que conquistei após anos me desenvolvendo em marketing e vendas.
 
